@@ -9,6 +9,8 @@ Asimismo, en la línea 39 y 40 del código realiza esta función de limpieza del
 
 Lo principal es que el script calcula el tiempo transcurrido de la canción y el tiempo total de la canción, por lo que genera la hora de acuerdo al tiempo que en un futuro coincidirá con la hora del reloj, esta función se hizo de acuerdo solo a minutos, por lo que sería ideal ajustarla en un futuro incluyendo segundos y así tener una hora mucho más exacta.
 
+Solo funciona si el tiempo es mayor a 20 segundos hasta que termine la canción, ya que se toma en cuenta el tiempo que procesa todo, une los audios y lo agrega a la playlist.
+
 El script está hecho para que los audios los lea desde una carpeta llamada 'audios_hora' y dentro de esta carpeta se incluyó dos archivos pregrabados en formato mp3 antes que diga la hora de acuerdo a los audios descargados desde Zara Radio.
 
 Al modificar el nombre de los archivos de audio, estos deben quedar así dentro de la carpeta 'audios_hora', cabe destacar que son más archivos pero los demás no se les modificó el nombre, solo a los que tenían 08, 09, 00, etc:
