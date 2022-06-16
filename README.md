@@ -11,7 +11,8 @@ Lo principal es que el script calcula el tiempo transcurrido de la canción y el
 
 El script está hecho para que los audios los lea desde una carpeta llamada 'audios_hora' y dentro de esta carpeta se incluyó dos archivos pregrabados en formato mp3 antes que diga la hora de acuerdo a los audios descargados desde Zara Radio.
 
-Al modificar el nombre de los archivos de audio, estos deben quedar así dentro de la carpeta 'audios_hora', cabe destacar que son más archivos pero los demás no se les modificó el nombre, solo a los 1ue tenían 08, 09, 00, etc:
+Al modificar el nombre de los archivos de audio, estos deben quedar así dentro de la carpeta 'audios_hora', cabe destacar que son más archivos pero los demás no se les modificó el nombre, solo a los que tenían 08, 09, 00, etc:
+
 HRS0.mp3
 HRS0_O.mp3
 HRS1.mp3
@@ -21,7 +22,7 @@ HRS2_O.mp3
 HRS3.mp3
 HRS3_O.mp3
 HRS4.mp3
-HRS4_O.mp3   
+HRS4_O.mp3
 HRS5.mp3
 HRS5_O.mp3
 HRS6.mp3
